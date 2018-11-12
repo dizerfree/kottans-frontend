@@ -1,14 +1,16 @@
-#My impressions
+My impressions
+===============
 
 Thanks a lot for your program and your help during doing tasks.
 I completed all tasks with great interest despite the fact that my English is not good - I use translator and subtitles
 
-##Git and GitHub
+Git and GitHub
+----------------
 I finished the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 I got familiar with Git and GitHub.
 
-###The main points for me:
+### The main points for me:
 
 * Use console and **Git** for your local project and use **GitHub** if
 you want to collaborate with another developers
