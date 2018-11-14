@@ -46,5 +46,5 @@ it allows to move to earlier levels in the commit tree
 below your current location
 
 ### Results of Git and GitHub 
-![How to use Git and GitHub](screencapture-classroom-udacity-courses-ud775-2018-11-12-22_41_31.png)
-![Learn Git branching](screencapture-learngitbranching-js-org-2018-11-12-22_27_41_1.png)
+![How to use Git and GitHub](task_git_github/screencapture-classroom-udacity-courses-ud775-2018-11-12-22_41_31.png)
+![Learn Git branching](task_git_github/screencapture-learngitbranching-js-org-2018-11-12-22_27_41_1.png)
