@@ -45,6 +45,6 @@ it allows to move to earlier levels in the commit tree
 * **cherry-pick** and **rebase** - that allows to copy a series of commits
 below your current location
 
-### Results of first lesson 
+### Results of Git and GitHub 
 ![How to use Git and GitHub](screencapture-classroom-udacity-courses-ud775-2018-11-12-22_41_31.png)
-![Learn Git branching](screencapture-learngitbranching-js-org-2018-11-12-22_27_41.png)
+![Learn Git branching](screencapture-learngitbranching-js-org-2018-11-12-22_27_41_1.png)
