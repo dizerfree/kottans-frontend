@@ -4,7 +4,7 @@ My impressions of the Front-End Course
 Thanks a lot for your program and your help during doing tasks.
 I completed all tasks with great interest despite the fact that my English is not good - I use translator and subtitles
 
-Git and GitHub
+1 .  Git and GitHub
 ----------------
 I finished the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
@@ -50,7 +50,7 @@ below your current location
 
 ![Learn Git branching](task_git_github/screencapture-learngitbranching-js-org-2018-11-12-22_27_41_1.png)
 
-Intro to HTML and CSS
+2 .  Intro to HTML and CSS
 -------------------
 
 It is great start for beginners. These materials are very useful and understandable. 
@@ -88,3 +88,43 @@ I have finished these two courses:
 ![HTML Academy](task_git_html_css_intro/screencapture-htmlacademy-ru-courses-basic-html-2018-11-14-18_33_44.png)
 
 ![HTML Academy](task_git_html_css_intro/screencapture-htmlacademy-ru-courses-basic-css-2018-11-14-18_32_50.png)
+
+3 .  Responsive Web Design
+-------------------
+I have finished the course Responsive Web Design Fundamentals. 
+It was really helpful and interesting for me. Thanks a lot
+
+#### I intend to use in future:
+* flexbox
+* viewport
+* relative width
+* target touch size
+* media queries
+* breakpoints
+* responsive patterns and tables
+
+#### New to me:
+* responsive tables and images
+* remote debugging Intro
+* Grids
+
+#### Extra materials 
+
+* [Чётко и резко - В. Макеев](https://www.youtube.com/watch?v=n0Vy9cYES-4) +
+[presentation](https://pepelsbey.net/pres/clear-and-sharp/#21)
+
+* [A Pixel Identity Crisis](https://alistapart.com/article/a-pixel-identity-crisis) + [Ru](https://habr.com/post/145619/)
+
+* [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862) +
+[Ru](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html)
+
+* [Designing for Breakpoints](https://alistapart.com/article/designing-for-breakpoints) +
+[Ru](https://frontender.info/designing-for-breakpoints/)
+
+#### Results of Responsive Web Design
+
+![Responsive Web Design Fundamentals](task_responsive_web_design/screencapture-classroom-udacity-courses-ud893-2018-11-20-23_11_25.png)
+
+![Flexbox Froggy](task_responsive_web_design/screencapture-flexboxfroggy-2018-11-20-23_41_23.png)
+
+
