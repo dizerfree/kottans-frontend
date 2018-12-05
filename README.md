@@ -50,7 +50,7 @@ below your current location
 
 ![Learn Git branching](task_git_github/screencapture-learngitbranching-js-org-2018-11-12-22_27_41_1.png)
 
-2 .  Intro to HTML and CSS
+4 .  Intro to HTML and CSS
 -------------------
 
 It is great start for beginners. These materials are very useful and understandable. 
@@ -89,7 +89,7 @@ I have finished these two courses:
 
 ![HTML Academy](task_git_html_css_intro/screencapture-htmlacademy-ru-courses-basic-css-2018-11-14-18_32_50.png)
 
-3 .  Responsive Web Design
+5 .  Responsive Web Design
 -------------------
 I have finished the course Responsive Web Design Fundamentals. 
 It was really helpful and interesting for me. Thanks a lot
@@ -127,4 +127,24 @@ It was really helpful and interesting for me. Thanks a lot
 
 ![Flexbox Froggy](task_responsive_web_design/screencapture-flexboxfroggy-2018-11-20-23_41_23.png)
 
+6 .  JavaScript Basics
+-------------------
+Thanks to the course [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) from Udacity I 
+got a basic knowledge of JavaScript. The way of 
+presenting the materials was  very creative and accessible.
+What was new to me?
+* special characters
+* ternary operator
+* global and local scope
+* objects
 
+![Results of Intro to JavaScript](task_js_basics/screencapture-classroom-udacity-courses-ud803-2018-12-04-19_48_03.png)
+
+The course [Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/) from Freecodecamp wasn't easy for me and I often used the 
+hints, but there were some things that surprised me:
+* arguments object
+* regular expressions
+* method replace
+* method charCodeAt
+
+![Results of freecodecamp](task_js_basics/screencapture-learn-freecodecamp-org-2018-12-05-22_05_26.png)
