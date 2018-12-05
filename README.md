@@ -130,8 +130,7 @@ It was really helpful and interesting for me. Thanks a lot
 6 .  JavaScript Basics
 -------------------
 Thanks to the course [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) from Udacity I 
-got a basic knowledge of JavaScript. The way of 
-presenting the materials was  very creative and accessible.
+got a basic knowledge of JavaScript. The way of presenting the materials was  very creative and accessible.
 What was new to me?
 * special characters
 * ternary operator
