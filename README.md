@@ -6,7 +6,7 @@ I completed all tasks with great interest despite the fact that my English is no
 
 1 .  Git and GitHub
 ----------------
-I finished the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+I have finished the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 I got familiar with Git and GitHub.
 
@@ -49,6 +49,48 @@ below your current location
 ![How to use Git and GitHub](task_git_github/screencapture-classroom-udacity-courses-ud775-2018-11-12-22_41_31.png)
 
 ![Learn Git branching](task_git_github/screencapture-learngitbranching-js-org-2018-11-12-22_27_41_1.png)
+
+2 .  Linux CLI, HTTP
+----------------
+I have completed the course [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+         
+Before that, I knew only the basic commands. 
+So, there were many new things and useful for me:
+* configure own environment 
+* alias - allows to create own keyboard shortcuts 
+* ls -alt  - shows all contents, including a - hidden files/directories, l - long format, t - date and time last 
+modified files
+#### Results of Linux CLI, HTTP
+![Linux, Command Line](tasks_linux_cli_http/screencapture-codecademy-learn-the-command-line.png)
+
+I have read the articles:
+
+[HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+[HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)       
+
+Many things were difficult to understanding, 
+but something has cleared up:
+* structure of URLs 
+* status Codes and Errors
+* Identification and ways of collect personal information
+* Authentication and Secure HTTP
+
+3 .  Git for Team Collaboration
+----------------
+I have completed the courses:
+ 
+[What is Version Control](https://classroom.udacity.com/courses/ud123/)
+
+[GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+         
+materials are very useful, but without practice they cannot be understood. 
+I will continue to practice, especially I will pay attention to the branches 
+and working the remote repository
+#### Git for Team Collaboration
+![What is Version Control](tasks_git_collaboration/screencapture-classroom-udacity-courses-ud123-2018-12-15-16_53_37.png)
+
+![GitHub & Collaboration](tasks_git_collaboration/screencapture-classroom-udacity-courses-ud456-2018-12-15-16_56_02.png)
 
 4 .  Intro to HTML and CSS
 -------------------
