@@ -189,3 +189,23 @@ hints, but there were some things that surprised me:
 * method charCodeAt
 
 ![Results of freecodecamp](task_js_basics/screencapture-learn-freecodecamp-org-2018-12-05-22_05_26.png)
+
+7 .  Document Object Model
+-------------------
+I have completed the courses:
+
+[JavaScript и DOM](https://classroom.udacity.com/courses/ud117) from Udacity 
+
+It was new and very interesting for me:
+* how to add and change elements
+* how to work to elements using browser events
+* how to improve code performance
+
+![JavaScript and the DOM](task_js_dom/basics_about_DOM/screencapture-classroom-udacity-courses-ud117-2018-12-13-01_06_52.png)
+
+[freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/) 
+
+I have finished this course for motivation - how algorithms should look and how to learn to write them. Therefore, I 
+have used tips
+
+![Results of freecodecamp](task_js_dom/basics_about_DOM/screencapture-learn-freecodecamp-org-2018-12-17-17_47_11.png)
