@@ -3,7 +3,6 @@ html, body, main {
     height: 100%;
     margin: 0;
     padding: 0;
-
     font-family: Arial, sans-serif;
     font-size: 16px;
     line-height: 24px;
@@ -15,7 +14,6 @@ a {
     text-decoration: none;
 }
 
-
 img {
     max-width: 100%;
     height: auto;
@@ -24,6 +22,7 @@ img {
 header, nav, section, div {
     box-sizing: border-box;
 }
+
 h1, h2 {
     font-family: Georgia, sans-serif;
     margin: 0;
@@ -32,9 +31,11 @@ h1, h2 {
 h1 {
     font-style: italic;
 }
+
 .sidebar {
     height: 100%;
 }
+
 .sidebar header {
     width: 100%;
     position: relative;
@@ -63,19 +64,18 @@ nav {
 }
 
 nav.open {
-    /*height: 100%;*/
     -webkit-transform: translate(0, 0);
     transform: translate(0, 0);
 }
 
 .hamburger_menu {
-
     display: inline-block;
     position: absolute;
     right: 0;
     bottom: 1.5em;
     padding: 1em;
 }
+
 .hamburger_menu svg {
     width: 32px;
     fill: gray;
@@ -87,11 +87,9 @@ nav .menu {
     width: 100%;
     height: 100%;
     margin: 0;
-
     padding: 1em 2em;
     background-color: #e2e2e0;
 }
-
 
 .menu a {
     display: inline-block;
@@ -109,6 +107,7 @@ nav .menu {
     color: #ffffff;
     border-radius: 30px;
 }
+
 .menu a.active-class:hover {
     color: #ffffff;
 }
@@ -118,8 +117,6 @@ nav .menu {
 .menu a:hover {
     color: #3366BB;
 }
-
-/*Content*/
 
 .main_item {
     display: none;
@@ -147,6 +144,3 @@ nav .menu {
     margin-left: 3em;
     box-sizing: border-box;
 }
-
-
-
