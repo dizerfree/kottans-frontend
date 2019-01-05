@@ -209,3 +209,9 @@ I have finished this course for motivation - how algorithms should look and how 
 have used tips
 
 ![Results of freecodecamp](task_js_dom/basics_about_DOM/screencapture-learn-freecodecamp-org-2018-12-17-17_47_11.png)
+
+8 .  A Tiny JS World (pre-OOP)
+------------------- 
+[Demo](https://dizerfree.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/dizerfree/a-tiny-JS-world/index.js)
+| Reviewed and approved by @<OleksiyRudenko>
