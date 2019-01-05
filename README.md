@@ -210,6 +210,11 @@ have used tips
 
 ![Results of freecodecamp](task_js_dom/basics_about_DOM/screencapture-learn-freecodecamp-org-2018-12-17-17_47_11.png)
 
+#### Practical task_js_dom
+[Demo](https://dizerfree.github.io/practical_task_js_dom/) |
+[Code base](https://github.com/dizerfree/dizerfree.github.io/tree/master/practical_task_js_dom)
+| Reviewed and approved by @AMashoshyna
+
 8 .  A Tiny JS World (pre-OOP)
 ------------------- 
 [Demo](https://dizerfree.github.io/a-tiny-JS-world/) |
