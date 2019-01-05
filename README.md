@@ -214,4 +214,4 @@ have used tips
 ------------------- 
 [Demo](https://dizerfree.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/dizerfree/a-tiny-JS-world/index.js)
-| Reviewed and approved by @<OleksiyRudenko>
+| Reviewed and approved by @OleksiyRudenko
